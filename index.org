@@ -9,7 +9,7 @@ The World of Talmiar is a world whose societal structure revolves around the exi
 ** Links
 - [[file:schools.org][Schools of Magic]]
 - [[file:races.org::*The Major Races][Races]]
-
+- [[file:locations.org][Important Locations]]
 
 ** Map
 
